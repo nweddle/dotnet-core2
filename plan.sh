@@ -8,7 +8,7 @@ pkg_description=".NET Core is a blazing fast, lightweight and modular platform
   Linux and Mac."
 pkg_maintainer="Nathan Weddle <nweddle@chef.io>"
 pkg_source="https://dotnetcli.blob.core.windows.net/dotnet/Runtime/${pkg_version}/dotnet-runtime-${pkg_version}-linux-x64.tar.gz"
-pkg_shasum=26f6a2e247dd0b9ac4003d12cf1bd8647985255fdd7659b60e36a7a26fce15de
+pkg_shasum=9c0080bd82ea26a5721fa063885c5675071af9741693e90efeb8eea8c70ac6bc
 pkg_filename="dotnet-runtime-${pkg_version}-linux-x64.tar.gz"
 pkg_deps=(
   core/curl
