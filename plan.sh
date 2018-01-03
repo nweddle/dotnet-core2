@@ -1,4 +1,4 @@
-pkg_name=dotnet-core
+pkg_name=dotnet-core2
 pkg_origin=nweddle
 pkg_version=2.0.4
 pkg_license=('MIT')
